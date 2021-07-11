@@ -2,6 +2,12 @@ Forked and updated because of: https://github.com/NePheus/capacitor-fullscreen-n
 
 Can be deleted after: https://github.com/ionic-team/capacitor-plugins/pull/513
 
+Install with:
+```bash
+npm install @capacitor/push-notifications@https://github.com/NePheus/capacitor-push-notifications.git
+npx cap sync
+```
+
 # @capacitor/push-notifications
 
 The Push Notifications API provides access to native push notifications.
