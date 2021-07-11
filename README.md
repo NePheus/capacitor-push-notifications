@@ -1,3 +1,7 @@
+Forked and updated because of: https://github.com/NePheus/capacitor-fullscreen-notification
+
+Can be deleted after: https://github.com/ionic-team/capacitor-plugins/pull/513
+
 # @capacitor/push-notifications
 
 The Push Notifications API provides access to native push notifications.
